@@ -11,7 +11,7 @@ body {
   margin: 0 auto;
 }
 header {
-  background: #585858;
+  background: #000000;
   position: fixed;
   left: 0;
   top: 0;
@@ -23,8 +23,10 @@ header::after {
   display: table;
   clear: both;
 }
-.logo{
-  color: red;
+.title{
+  color: ffffff;
+  font-family : Myriad Pro;
+  font-size : 12px;
   float: left;
   padding: 15px 25px 15px 0px;
 }
