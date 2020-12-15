@@ -1,6 +1,8 @@
 /* Background color */
 body {
-    background-color: black;
+    /* background-color: black; */
+    background : #C5101A;
+	background : rgba(197, 16, 26, 1);
 }
 
 /* Header */
