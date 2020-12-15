@@ -45,6 +45,7 @@
 .nav-bkg_1_
 {
 	background-image : url(nav-bkg_1_.png);
+	width:auto;
 	background-repeat : no-repeat;
 }
 .home-feature
