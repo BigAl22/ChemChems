@@ -35,7 +35,7 @@ header::after {
   font-family : GarnetMedium;
   font-size : 37px;
   float: left;
-  /*padding: 15px 25px 15px 0px;*/
+  padding: 15px 25px 15px 0px;
 }
 nav  {
   float: right;
