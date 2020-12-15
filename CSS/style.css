@@ -1,8 +1,14 @@
-/* Background color */
+/* Background color / Font*/
 body {
     /* background-color: black; */
     background : #C5101A;
     background : rgba(197, 16, 26, 1);
+}
+@font-face {
+  src: url(Fonts/ATCGarnetMedium.otf);
+  font-family: GarnetMedium;
+  src: url(Fonts/ATCGarnetUltra.otf);
+  font-family: GarnetUltra;
 }
 
 /* Header */
@@ -25,8 +31,9 @@ header::after {
 }
 .headerTitle{
   color: rgb(242,242,242);
-  font-family : Myriad Pro;
-  font-size : 12px;
+   
+  font-family : GarnetMedium;
+  font-size : 37px;
   float: left;
   /*padding: 15px 25px 15px 0px;*/
 }
