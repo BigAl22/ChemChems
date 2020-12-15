@@ -23,8 +23,8 @@ header::after {
   display: table;
   clear: both;
 }
-.title{
-  color: ffffff;
+.headerTitle{
+  color: rgb(242,242,242);
   font-family : Myriad Pro;
   font-size : 12px;
   float: left;
